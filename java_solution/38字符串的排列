@@ -1,0 +1,36 @@
+# 题目描述
+
+输入一个长度为 n 字符串，打印出该字符串中字符的所有排列，你可以以任意顺序返回这个字符串数组。  
+
+例如输入字符串ABC,则输出由字符A,B,C所能排列出来的所有字符串ABC,ACB,BAC,BCA,CBA和CAB。
+
+# 题解
+
+构建一个辅助函数，先判断还有没有字符可以取，如果没有就判断结果数组中是否已经有这个结果了。如果没有就将当前结果添加进去。如果还有能取的字符串则进行循环。将剩下的字符串中的每个字符都将其与现有的cur字符串进行组合，所以我们有cur+str.charAt(i)。因此我们的第一个参数会除去第i个字符。如此循环直到遍历所有结果。
+
+```java
+import java.util.ArrayList;
+public class Solution {
+    public ArrayList<String> Permutation(String str) {
+        ArrayList<String> result = new ArrayList<>();
+        if(str.length()==0){
+           return result;
+       }
+        recur(str,"",result);
+        return result;
+    }
+    
+    //str为剩下可以选择的字符串  cur为当前组合好的字符串  result为存储结果的string数组
+    public void recur(String str,String cur,ArrayList<String> result){
+        if(str.length()==0){
+            if(!result.contains(cur)){
+                result.add(cur);
+            }
+        }
+        for(int i=0;i<str.length();i++){
+            recur(str.substring(0,i)+str.substring(i+1,str.length()),cur+str.charAt(i),result);
+        }
+    }
+}
+```
+
