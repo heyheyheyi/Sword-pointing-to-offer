@@ -5,10 +5,12 @@
 ## 数据结构
 
 ### 链表
-[3. 从尾到头打印链表](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/3%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)  
-[22. 链表中最后倒数k个结点](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/22%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E6%9C%80%E5%90%8Ek%E4%B8%AA%E7%BB%93%E7%82%B9.md)  
+[6. 从尾到头打印链表](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/3%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)  
 [24. 反转链表](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/24%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)  
 [25. 合并两个排序的链表](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/25%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.md)  
+[22. 链表中最后倒数k个结点](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/22%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E6%9C%80%E5%90%8Ek%E4%B8%AA%E7%BB%93%E7%82%B9.md)  
+
+
 
 ### 树
 [4. 重建二叉树](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/4%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)  
