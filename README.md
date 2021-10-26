@@ -16,6 +16,8 @@
 
 ### 树
 [4. 重建二叉树](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/4%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)  
+[54. 二叉搜索树的第k个结点](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/54%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md)  
+[55. 二叉树的深度](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/55%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)  
 
 ### 队列&栈
 [5. 用两个栈实现队列](https://github.com/heyheyheyi/Sword-pointing-to-offer/blob/main/java_solution/5%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)   
